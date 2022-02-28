@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- TUDO OQUE FOR PEGO/GET DO HTML -->
+	<form action="Controle.aluno" method="post">
+		<!-- USO DO POST PARA DADOS QUE NÃO DEVEM APARECER -->
+		<h3>Digite a matricula:</h3>
+		<input type="text" name="txtMatricula" />
+		<h3>Digite o nome:</h3>
+		<input type="text" name="txtNome" />
+		<h3>Digite a nota do teste:</h3>
+		<input type="text" name="txtTeste" />
+		<h3>Digite a nota da prova:</h3>
+		<input type="text" name="txtProva" />
+		
+		<h3>Tipo aluno:</h3>
+		<input type="radio" name="rdbTipo" value="Grad" /><h3>Graduação</h3>
+		<input type="radio" name="rdbTipo" value="PosGrad" /><h3>Pós-Graduação</h3>
+		
+		<input type="submit" value="Enviar" />
+		<input type="reset" value="Cancelar" />
+	</form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Oswaldo Peres\Documents\Aulas\Aulas 2022\RecodePro\Java Web Intermediario - 19-01 a 29-01\Exemplos de Sala de Aula\2022-01-19\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\450002828.index
+\Exemplo005-Manha-3-4-2022-01-19\src\main\java
+C:\Users\Oswaldo Peres\Documents\Aulas\Aulas 2022\RecodePro\Java Web Intermediario - 19-01 a 29-01\Exemplos de Sala de Aula\2022-01-19\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2539291246.index
+\Exemplo004-Manha-3-4-2022-01-19\src\main\java

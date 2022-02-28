@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Oswaldo Peres\Documents\Aulas\Aulas 2022\RecodePro\Java Web Intermediario - 19-01 a 29-01\Exemplos de Sala de Aula\2022-01-19\.metadata\.plugins\org.eclipse.jdt.core
+877118375.index
+2144220263.index
+1759924391.index
+437717543.index
+222260967.index
+3180007180.index

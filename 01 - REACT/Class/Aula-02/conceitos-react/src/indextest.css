@@ -1,0 +1,7 @@
+/* APLICANDO CSS */
+/* Criar normalmente e usar o import './nome-arquivo.css, no index.js */
+body {
+    background-color: black;
+    color: white;
+}
+/* APLICANDO CSS */

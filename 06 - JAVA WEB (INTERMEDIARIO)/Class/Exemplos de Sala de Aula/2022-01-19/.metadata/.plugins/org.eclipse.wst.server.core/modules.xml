@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Exemplo001-Manha-3-4-2022-01-19" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Exemplo003-Manha-3-4-2022-01-19" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Exemplo002-Manha-3-4-2022-01-19" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Exemplo004-Manha-3-4-2022-01-19" serverId="Tomcat v9.0 Server at localhost"/>
+</modules>
